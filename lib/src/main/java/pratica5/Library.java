@@ -5,7 +5,7 @@ package pratica5;
 
 public class Library {
     public boolean someLibraryMethod() {
-    	System.out.println("Testar build");
+    	System.out.println("Testar build 2");
         return true;
     }
 }
